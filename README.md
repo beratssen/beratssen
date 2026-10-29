@@ -40,6 +40,46 @@
 
 <br>
 
+## Cybersecurity: TryHackMe
+
+<div align="center">
+
+**Top 9% globally** · **60 rooms completed** · **6 badges** · **1,183 activity events in the last year**
+
+</div>
+
+<table align="center">
+  <tr>
+    <td align="center"><img src="assets/thm-blue.gif" width="150" alt="Blue badge" /><br><sub><b>Blue</b><br>Windows via EternalBlue</sub></td>
+    <td align="center"><img src="assets/thm-metasploitable.gif" width="150" alt="Metasploitable badge" /><br><sub><b>Metasploitable</b><br>Using Metasploit</sub></td>
+    <td align="center"><img src="assets/thm-networking-nerd.gif" width="150" alt="Networking Nerd badge" /><br><sub><b>Networking Nerd</b><br>Network Fundamentals</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/thm-cat-linux.gif" width="150" alt="cat linux.txt badge" /><br><sub><b>cat linux.txt</b><br>Linux competence</sub></td>
+    <td align="center"><img src="assets/thm-webbed.gif" width="150" alt="Webbed badge" /><br><sub><b>Webbed</b><br>How the web works</sub></td>
+    <td align="center"><img src="assets/thm-world-wide-web.gif" width="150" alt="World Wide Web badge" /><br><sub><b>World Wide Web</b><br>How The Web Works</sub></td>
+  </tr>
+</table>
+
+<details>
+<summary><b>Completed rooms (60)</b></summary>
+<br>
+
+| Area | Rooms |
+| --- | --- |
+| **Offensive security & tools** (12) | Nmap · Wireshark · Tcpdump · John the Ripper · Metasploit (3 rooms) · Blue · Moniker Link · Become a Hacker · Offensive Security · Web Applications |
+| **Networking** (11) | DNS in Detail · OSI Model · Packets & Frames · Intro to LAN · HTTP in Detail · Networking Core · + 5 more networking rooms |
+| **Windows & Active Directory** (8) | Windows Basics · Windows CLI · PowerShell · Active Directory · + 4 more Windows rooms |
+| **Linux** (5) | Linux CLI Basics · Linux Shells · + 3 Linux fundamentals rooms |
+| **Cryptography** (5) | Hashing Basics · Data Encoding · Public-key cryptography · Cryptography (2 rooms) |
+| **Defensive security** (5) | The CIA Triad · Search Skills · Defensive Security · Careers in Cyber · + 1 more |
+| **Web & programming** (7) | How websites work · Putting it all together · JavaScript (2 rooms) · Python · Database SQL · + 1 more |
+| **Computing fundamentals** (7) | Computer Types · Inside a Computer · Client-Server · Operating Systems (2 rooms) · Virtualisation · Cloud Computing |
+
+</details>
+
+<br>
+
 ## Featured: AR Restaurant Menu
 
 Scan a QR code on the menu with your phone and the dish shows up in 3D on the table, so you see the portion and presentation before you order. Every dish is a real plate photographed and rebuilt with photogrammetry, cleaned in Blender, and optimised for mobile.

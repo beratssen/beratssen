@@ -40,6 +40,46 @@
 
 <br>
 
+## Siber güvenlik: TryHackMe
+
+<div align="center">
+
+**Dünya genelinde ilk %9** · **60 oda tamamlandı** · **6 rozet** · **son bir yılda 1.183 etkinlik**
+
+</div>
+
+<table align="center">
+  <tr>
+    <td align="center"><img src="assets/thm-blue.gif" width="150" alt="Blue badge" /><br><sub><b>Blue</b><br>EternalBlue ile Windows</sub></td>
+    <td align="center"><img src="assets/thm-metasploitable.gif" width="150" alt="Metasploitable badge" /><br><sub><b>Metasploitable</b><br>Metasploit kullanımı</sub></td>
+    <td align="center"><img src="assets/thm-networking-nerd.gif" width="150" alt="Networking Nerd badge" /><br><sub><b>Networking Nerd</b><br>Ağ temelleri</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/thm-cat-linux.gif" width="150" alt="cat linux.txt badge" /><br><sub><b>cat linux.txt</b><br>Linux yetkinliği</sub></td>
+    <td align="center"><img src="assets/thm-webbed.gif" width="150" alt="Webbed badge" /><br><sub><b>Webbed</b><br>Web nasıl çalışır</sub></td>
+    <td align="center"><img src="assets/thm-world-wide-web.gif" width="150" alt="World Wide Web badge" /><br><sub><b>World Wide Web</b><br>How The Web Works</sub></td>
+  </tr>
+</table>
+
+<details>
+<summary><b>Tamamlanan odalar (60)</b></summary>
+<br>
+
+| Alan | Odalar |
+| --- | --- |
+| **Ofansif güvenlik ve araçlar** (12) | Nmap · Wireshark · Tcpdump · John the Ripper · Metasploit (3 oda) · Blue · Moniker Link · Become a Hacker · Offensive Security · Web Applications |
+| **Ağ** (11) | DNS in Detail · OSI Model · Packets & Frames · Intro to LAN · HTTP in Detail · Networking Core · + 5 ağ odası daha |
+| **Windows ve Active Directory** (8) | Windows Basics · Windows CLI · PowerShell · Active Directory · + 4 Windows odası daha |
+| **Linux** (5) | Linux CLI Basics · Linux Shells · + 3 Linux temelleri odası |
+| **Kriptografi** (5) | Hashing Basics · Data Encoding · Açık anahtarlı kriptografi · Cryptography (2 oda) |
+| **Defansif güvenlik** (5) | The CIA Triad · Search Skills · Defensive Security · Careers in Cyber · + 1 oda daha |
+| **Web ve programlama** (7) | Web siteleri nasıl çalışır · Putting it all together · JavaScript (2 oda) · Python · Database SQL · + 1 oda daha |
+| **Bilgisayar temelleri** (7) | Computer Types · Inside a Computer · Client-Server · İşletim sistemleri (2 oda) · Virtualisation · Cloud Computing |
+
+</details>
+
+<br>
+
 ## Öne çıkan: AR Restoran Menüsü
 
 Menüdeki QR kodu telefonla okut, yemek masanın üzerinde 3D olarak belirsin. Sipariş vermeden önce porsiyonu ve sunumu görürsün. Her yemek gerçek bir tabaktan fotoğraflanıp fotogrametri ile yeniden oluşturuldu, Blender'da temizlendi ve mobil için optimize edildi.
